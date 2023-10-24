@@ -14,13 +14,19 @@ takes a raw image and applies the above filter to it
 ### Example
 
 Raw training image:
-![image](https://github.com/the-dg04/filter_copier/assets/69722491/22db8cf7-2ff4-440a-827e-8c010e212c31)
+
+![image](https://github.com/the-dg04/filter_copier/assets/69722491/71238849-998c-4736-8520-fbece49690e5)
+
 
 Filtered training image:
-![image](https://github.com/the-dg04/filter_copier/assets/69722491/eae5e2c9-6948-423c-9852-4c79dea20dce)
+
+![image](https://github.com/the-dg04/filter_copier/assets/69722491/f2cba979-7361-42f7-ae92-c4dded4d0de7)
+
 
 Test image:
+
 ![image](https://github.com/the-dg04/filter_copier/assets/69722491/b7bbfcdf-0a48-4837-b819-1817d36cfee2)
 
 Generated filtered image:
+
 ![image](https://github.com/the-dg04/filter_copier/assets/69722491/ecbf015f-57e1-4b75-b89c-b1f301657053)
