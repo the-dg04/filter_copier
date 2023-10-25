@@ -8,7 +8,7 @@ image_directory=os.path.join(os.getcwd(),'public')
 raw_img=cv2.imread(os.path.join(image_directory,'raw_training_image.jpg'))
 filtered_img=cv2.imread(os.path.join(image_directory,'filtered_training_image.jpg'))
 myFilter=Filter()
-myFilter.train(raw_img,filtered_img)
+myFilter.train(raw_img,filtered_img) # training the filter
 
 test_img=cv2.imread(os.path.join(image_directory,'test_image.jpg')) # your test image goes here
 processed_img=myFilter.apply_filter(test_img)
